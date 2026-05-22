@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 daiccsky and dcc.
 test merge.
+test merge2.
